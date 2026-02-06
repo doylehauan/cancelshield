@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+motor
+python-dotenv
+resend
+twilio
+pydantic
+email-validator
+httpx
+stripe
